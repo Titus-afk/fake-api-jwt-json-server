@@ -2,77 +2,48 @@
   "products": [
     {
       "id": 1,
-      "name": "Product001",
-      "cost": 10,
-      "quantity": 1000,
-      "locationId": 1,
-      "familyId": 1
+      "name": "Gold1",
+      "ratesmonthly": 6,
+      "ratesyearly": 4,
+      "users": 10,
+      "provisionalDataAccess": false,
+      "migration": true
     },
     {
       "id": 2,
-      "name": "Product002",
-      "cost": 20,
-      "quantity": 2000,
-      "locationId": 1,
-      "familyId": 2
+      "name": "Gold2",
+      "ratesmonthly": 10,
+      "ratesyearly": 15,
+      "users": 10,
+      "provisionalDataAccess": false,
+      "migration": true
     },
     {
-      "id": 3,
-      "name": "Product003",
-      "cost": 30,
-      "quantity": 3000,
-      "locationId": 3,
-      "familyId": 2
+      "name": "124124",
+      "ratesmonthly": "12",
+      "ratesyearly": "12",
+      "users": "12",
+      "provisionalDataAccess": "True",
+      "migration": "False",
+      "id": 3
     },
     {
-      "id": 4,
-      "name": "Product004",
-      "cost": 40,
-      "quantity": 4000,
-      "locationId": 2,
-      "familyId": 3
+      "name": "Titus Matt",
+      "ratesmonthly": "12",
+      "ratesyearly": "12",
+      "users": "12",
+      "provisionalDataAccess": "12",
+      "migration": "122",
+      "id": 4
     },
     {
+      "name": "sample",
+      "ratesmonthly": "1124412",
+      "ratesyearly": "12",
+      "users": "124",
+      "provisionalDataAccess": "12454",
+      "migration": "1212",
       "id": 5
-    },
-    {
-      "id": 6
-    },
-    {
-      "id": 7
-    },
-    {
-      "id": 8
-    },
-    {
-      "id": 9
-    },
-    {
-      "id": 10
-    },
-    {
-      "id": 11
-    },
-    {
-      "id": 12
-    },
-    {
-      "id": 13
-    },
-    {
-      "id": 14
-    },
-    {
-      "id": 15
-    },
-    {
-      "id": 16
-    },
-    {
-      "id": 17
-    },
-    {
-      "id": 18
     }
   ],
   "locations": [
